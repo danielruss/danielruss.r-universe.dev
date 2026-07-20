@@ -3,5 +3,10 @@
     "package":"socR",
     "url": "https://github.com/danielruss/socR",
     "branch":"main"
+  },
+  {
+    "package":"soccerrsr",
+    "url": "https://github.com/danielruss/soccerrsr",
+    "branch":"main"
   }
 ]
