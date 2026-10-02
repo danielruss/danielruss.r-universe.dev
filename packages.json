@@ -8,5 +8,10 @@
     "package":"soccerrsr",
     "url": "https://github.com/danielruss/soccerrsr",
     "branch":"main"
+  },
+    {
+    "package":"qcdd",
+    "url": "https://github.com/danielruss/qcdd",
+    "branch":"main"
   }
 ]
